@@ -1,16 +1,19 @@
-## Hi there 👋
+# JYP
+https://www.youtube.com/watch?v=KF6t61yuPCY
+## 로봇고 재학중
+### 사랑해💜
 
-<!--
-**jyp8282/jyp8282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyp8282&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+<div>
+  
+  <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=jyp8282" width="42%" height="100%"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/jyp8282?pet-id=1" width="1000" height="120"/>
+</a>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/jyp8282"/>
+</a>
